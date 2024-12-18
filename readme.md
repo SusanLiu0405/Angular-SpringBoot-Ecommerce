@@ -209,4 +209,4 @@ spring.datasource.username=<Database_Username>
 spring.datasource.password=<Corresponding_Password>
 ```
 
-And, run the db-scripts from 01 to 04, sequentially, to set up your database.
+And, run the db-scripts in 01-starter-files from 01 to 04, sequentially, to set up your database.
